@@ -18,6 +18,6 @@ Alur singkat penggunaan
 3. Anda akan dibawa ke halaman hasil yang menampilkan Nama, NIM, dan Umur."
   
 # H1D023006_tugas6"
-![]('inputdata_tugas6.png')
+![](inputdata_tugas6.png)
    
-![]('tampilan_tugas6.png')
+![](perkenalan_tugas6.png)
