@@ -15,4 +15,9 @@ File penting yang diubah/ditambahkan
 Alur singkat penggunaan
 1. Buka aplikasi — akan langsung muncul halaman "Input Data".
 2. Isi Nama, NIM, dan Tahun Lahir lalu tekan tombol "Simpan".
-3. Anda akan dibawa ke halaman hasil yang menampilkan Nama, NIM, dan Umur."# H1D023006_tugas6" 
+3. Anda akan dibawa ke halaman hasil yang menampilkan Nama, NIM, dan Umur."
+  
+# H1D023006_tugas6"
+![]('inputdata_tugas6.png')
+   
+![]('tampilan_tugas6.png')
